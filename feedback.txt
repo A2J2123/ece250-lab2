@@ -1,0 +1,114 @@
+Project Name: ece250-w24-lab2-am2jegan
+
+
+===> Project Clone Result:
+Project Name: ece250-w24-lab2-am2jegan
+user: ece250-w24-lab2-am2jegan
+files: True
+Last Update Date: 2024-03-13T14:05:23.527-04:00
+Deadline: 2024-03-13, 11:59pm
+Penalty Percentage: 0
+Project ID: 89020
+
+===> Make Result: 
+success
+
+===> Marking Scheme - test cases
+******* TestCases: 90%
+   There are 11 test input files.
+** TestCases 1-10: 70%
+   Input files 01 through 10 test specific functionality. Each line in those files is worth 1 mark, for a total of 70 marks.
+** TestCases 11: 20%
+   Test 11 stress tests the code a huge number of times. It is worth 20 marks total, graded as follows:
+   There are 227208 lines in that file:
+   +20: all lines correct
+   +10: at least 75% of the lines correct
+   +5: at least 50% of the lines correct
+   With no part marks.
+******* Memory Leak : 5%
+   +5: if the total memory leak is zero
+******* Performance : 5%
+   +5: if 'Test 11 Elapsed Time(s)' is less than 15.0(s)
+   +2: if 'Test 11 Elapsed Time(s)' is from 15.0(s) to 20.0(s)
+
+
+===> Performance - time (CPU: AMD Ryzen 9 5900X 12-Core Processor):
+Project Name: ece250-w24-lab2-am2jegan
+Test 1 Result: success
+Test 1 Elapsed Time (s): 0.007990122
+Test 2 Result: success
+Test 2 Elapsed Time (s): 0.017865896
+Test 3 Result: success
+Test 3 Elapsed Time (s): 0.019758224
+Test 4 Result: success
+Test 4 Elapsed Time (s): 0.019886255
+Test 5 Result: success
+Test 5 Elapsed Time (s): 0.00420022
+Test 6 Result: success
+Test 6 Elapsed Time (s): 0.003956556
+Test 7 Result: success
+Test 7 Elapsed Time (s): 0.003985405
+Test 8 Result: success
+Test 8 Elapsed Time (s): 0.003990173
+Test 9 Result: success
+Test 9 Elapsed Time (s): 0.006514549
+Test 10 Result: success
+Test 10 Elapsed Time (s): 0.007776737
+Test 11 Result: success
+Test 11 Elapsed Time (s): 10.33164668
+
+
+===> Test cases - Scores:
+Project Name: ece250-w24-lab2-am2jegan
+Score01: 3
+Score02: 6
+Score03: 8
+Score04: 2
+Score05: 8
+Score06: 7
+Score07: 6
+Score08: 5
+Score09: 16
+Score10: 8
+Score11: 38730
+Total Score: 38799
+Mismatched Lines: 
+File: test04.out | Line:3 
+Expected: correct
+Output: aaccomplicesaddedadditionadvertisingafterairportallalongalsoanandandyanimationanotheranyapplyapprehendappropriatearearoundarrestasassignmentatatlasatlasesattentionawaybachsbasedbecomebeenbeforebehindberlinbestblackbonusboringbothboxbroderbundbutbycallcardcarmencatchcatchingcharacteristicschasechiefclaimscluescollectioncolorcommittedcompatibilitycomputerconsolecountriescountrycreatedcrimecriminalcrookdaydepicteddescribingdescriptiondetaildetailsdetectivediskdisplaydistributeddocumentationdontdrawingsdriveseacheasteducationaleffectselevenenteretceuropeevenexcellentexistfavoritefigurefindfinefiveflightfloppyfollowforfromfungamegameplaygamesgendergeographygermanygetgoinggoodgraphicsgreatgumshoehairhardharpsichordhashaveheadhearhelpherselfhideouthimhishundrediifiiinincludesinformationinterestinginterfaceintoisititsivejustkeykeyboardkilobytekilobytesleftlooksloseloveluckmacmachinesmacintoshmacsmakemalemanualmapmaskedmaybemcnallymightminimummondaymoremostmoviemustnameneednewnotobjectofoffersofficeononeonlyoperationalorotheroutpaysphonepickpicturepieceplacesplaneplayerplayersplayspluspmprogramprotectionprovidespublishedquickramrandreceivedreferenceregardingrequirerequiresreviewrightringingrunsrushsandiegosandiegossequencesshortshouldsignsinglesmallsmoothsosomesoundspecificallystartstartedstolenswearteachingtelephonetestthanthatthethemtheresthesethiefthistimetotootracktwelvetwentytwounableunderstatementuntilupuseuserusesvalidvariousversionwalkwarrantwaswellwherewhichwhilewhitewillwithworkworksyouyoullyoungyour
+Skipped Tests: 0
+
+
+===> STL Usage Results:
+Project Name: ece250-w24-lab2-am2jegan
+driver.cpp (STL Usage): 0
+trie.h (STL Usage): 0
+trie.cpp (STL Usage): 0
+Total STL Usage: 0
+
+
+===> OOP Principles Results:
+Project Name: ece250-w24-lab2-am2jegan
+Class Definition: Yes
+Access Modifiers: No Access Modifiers
+Encapsulation: Good
+Inheritance: Good
+Polymorphism: No Polymorphism
+Constructor/Destructor: No Constructor/Destructor
+
+
+===> References Result:
+Project Name: ece250-w24-lab2-am2jegan
+References: 
+
+
+===> Valgrind Results:
+Project Name: ece250-w24-lab2-am2jegan
+test04.in Log: N/A
+test04.in Memory Leak: N/A
+test09.in Log: N/A
+test09.in Memory Leak: N/A
+test10.in Log: N/A
+test10.in Memory Leak: N/A
+Total Memory Leak: 0
+Valgrind Errors: 
